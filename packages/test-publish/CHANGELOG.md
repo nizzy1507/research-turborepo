@@ -1,7 +1,7 @@
 # @repo/test-publish
 
-## 2.0.0
+## 1.0.0
 
 ### Major Changes
 
-- Just a test :D
+- Just a test :P
